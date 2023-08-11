@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanipatil0515
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m proficient in python and Java
 - 📫 kalyanipatil0515.kp@gmail.com
 
 <!---
